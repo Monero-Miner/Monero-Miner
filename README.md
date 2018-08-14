@@ -1,13 +1,15 @@
 # Monero-Miner
-## No Donation
-```
-constexpr double fDevDonationLevel = 0 / 100.0;
-```
+
 
 ## Fast 
 ```
 Speed of Monero-Miner is about 122% of xmr-stak
 Speed of Monero-Miner is about 117% of xmr-baby
+```
+
+## No Donation
+```
+constexpr double fDevDonationLevel = 0 / 100.0;
 ```
 
 ## Source
