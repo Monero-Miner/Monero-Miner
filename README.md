@@ -1,4 +1,4 @@
-# Monero-Miner：
+# Monero-Miner
 ## No Donation
 ```
 constexpr double fDevDonationLevel = 0 / 100.0;
