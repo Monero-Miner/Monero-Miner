@@ -1,5 +1,3 @@
-###### Monero-Miner
-
 # Monero-Miner：
 ## No Donation
 ```
@@ -18,7 +16,7 @@ Monero-Miner
 xmr-stak
 xmr-baby
 ```
-##Monero-Miner Address:
+## Monero-Miner Address:
 ```
 447sRgRbziWCtCg3JGq3oqAUU9VdZbgBR4tnrZShS4vic8PAcSVdCjnLSNiC3CHcDtiQ9WQ1x45dmVpPkcxbwkgNJLiPCKN
 ```
